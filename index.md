@@ -1,3 +1,3 @@
 # SAP attack demo on a OURA ring
 
-<video src="https://drive.google.com/file/d/1BrxKcwX-xL7-zx9nuHQG1NH9TdSUn4f2/view" width="480" height="300" controls preload></video>
+<video src="https://github.com/paper-sub/paper-sub.github.io/blob/master/oura_attack.mp4" width="960" height="600" controls preload></video>
