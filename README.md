@@ -1,3 +1,3 @@
-## Welcome to paper-sub GitHub Pages
+## Welcome to BLESA demo GitHub Pages
 
-### A web page created for paper submission
+### A web page created for BLESA demo
